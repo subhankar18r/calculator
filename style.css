@@ -38,6 +38,10 @@ input.equal {
   flex: 1;
   text-align: right;
 }
+.error {
+  border: 3px groove red;
+  color: red;
+}
 @media (width>= 768px) {
   input {
     height: 75px;
